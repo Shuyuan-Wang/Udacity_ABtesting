@@ -14,7 +14,7 @@ To have more details, please see the project instructions.
 
 The analysis part of the project was done by Python and online calculator https://www.evanmiller.org/ab-testing/sample-size.html.
 
-For best reading experience, please access to the ipynb on Github, and html on local machine.
+*For best reading experience, please access to the ipynb file on Github, and html file on local machine.*
 
 ## References
 
