@@ -4,7 +4,7 @@ Course details can be found here https://www.udacity.com/course/ab-testing--ud25
 ## Study Notes
 
 I took notes of the entire course, along with A/B testing concepts and examples taught in class. The notes are in pdf format and hand written. 
-For full-sized file, please access it via Google Drive.
+For full-sized file, please access it via Google Drive https://drive.google.com/drive/folders/1xxUAYHrJQQOQflrDRATJptNvHalm9HYe?usp=sharing
 
 ## Final Project
 
